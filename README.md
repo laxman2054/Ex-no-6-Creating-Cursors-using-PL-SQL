@@ -1,5 +1,9 @@
 # Ex-no-6-Creating-Cursors-using-PL-SQL
 
+
+
+# DATE:
+
 # AIM:
  To create a cursor using PL/SQL.
 # Steps:
